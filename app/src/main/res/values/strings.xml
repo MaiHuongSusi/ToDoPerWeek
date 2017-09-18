@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Work Manager</string>
+    <string name="title">Quản lý công việc</string>
+    <string name="list">Danh sách công việc</string>
+    <string name="cv">Công việc:</string>
+    <string name="nd">Nội dung:</string>
+    <string name="ngay">Ngày HT:</string>
+    <string name="gio">Giờ HT:</string>
+</resources>
